@@ -1,4 +1,4 @@
-# individual_project
+# HW8
 ASE456
 
 User Stories
@@ -12,3 +12,7 @@ User Stories
  - As a user I want to be able to give a specific TAG to an input/dialog box and get back all activities with the same TAG.
 
 
+Code Smells
+
+
+Design Patterns
